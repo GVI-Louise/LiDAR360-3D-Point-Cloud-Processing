@@ -1,4 +1,4 @@
-# LiDAR360 Geospatial Processing Suite  
+# LiDAR360 Point Cloud & Images Post-Processing and Industry Applications Software
 ![GreenValley Logo](https://www.greenvalleyintl.com/_nuxt/logo_homapage.3krNlTfn.png)  
 
 ## Core Features  
@@ -18,4 +18,3 @@
 
 ## Quick Links  
 - [Download Software](https://www.greenvalleyintl.com/LiDAR360)  
-- [Citing LiDAR360](#citing)  
