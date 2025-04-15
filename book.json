@@ -1,0 +1,21 @@
+﻿{
+	"title":"LiDAR360 User Guide",
+	"language": "en",
+	"structure": {
+	    "readme": "UserGuide.md"
+	},
+    "pdf": {
+		"fontSize":16,
+		"fontFamily":"Arial",
+        "pageNumbers": false,
+        "paperSize": "a4",
+        "pageMargin": {
+            "right": 36,
+            "left": 36,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}

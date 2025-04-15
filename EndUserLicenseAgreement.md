@@ -1,0 +1,32 @@
+## End User License Agreement ##
+
+PLEASE READ CAREFULLY BEFORE USING THIS SOFTWARE PRODUCT: This **End-User License Agreement ("EULA")** is a contract between (a) you (either an individual or the entity you represent) and (b) **Greenvalley International Inc ("GVI")** that governs your use of the software product (“Software”). This EULA does not apply if there is a separate license agreement between you and GVI or its suppliers for the Software, including a license agreement in online documentation. The term "Software" may include (i) associated media, (ii) a user guide and other printed materials, and (iii) "online" or electronic documentation (collectively “User Documentation”).
+
+RIGHTS IN THE SOFTWARE ARE OFFERED ONLY ON THE CONDITION THAT YOU AGREE TO ALL TERMS AND CONDITIONS OF THIS EULA. BY INSTALLING, COPYING, DOWNLOADING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THIS EULA. IF YOU DO NOT ACCEPT THIS EULA, DO NOT INSTALL, DOWNLOAD, OR OTHERWISE USE THE SOFTWARE. IF YOU PURCHASED THE SOFTWARE BUT DO NOT AGREE TO THIS EULA, PLEASE RETURN THE SOFTWARE TO YOUR PLACE OF PURCHASE WITHIN FOURTEEN DAYS FOR A REFUND OF THE PURCHASE PRICE; IF THE SOFTWARE IS INSTALLED ON OR MADE AVAILABLE WITH ANOTHER GVI PRODUCT, YOU MAY RETURN THE ENTIRE UNUSED PRODUCT.
+
+1.  THIRD PARTY SOFTWARE.  The Software may include, in addition to GVI proprietary software (“GVI Software”), software under licenses from third parties (“Third Party Software” and “Third Party License”). Any Third-Party Software is licensed to you subject to the terms and conditions of the corresponding Third-Party License. Generally, the Third-Party License is in a file such as “license.txt” or a “readme” file. You should contact GVI support if you cannot find a Third-Party License.
+
+2. LICENSE RIGHTS.  You will have the following rights provided you comply with all terms and conditions of this EULA:
+
+	a. Use.  GVI grants you a license to Use one copy of the GVI Software. "Use" means installing, copying, storing, loading, executing, displaying, or otherwise using the GVI Software. You may not modify the GVI Software or disable any licensing or control feature of the GVI Software. If this Software is provided by GVI for Use with an imaging or printing product (for example, if the Software is a printer driver, firmware, or add-on), the GVI Software may only be used with such product (“GVI Product”). Additional restrictions on Use may appear in the User Documentation. You may not separate component parts of the GVI Software for Use. You do not have the right to distribute the GVI Software. 
+	 
+	b. Copying.  Your right to copy means you may make archival or back-up copies of the GVI Software, provided each copy contains all the original GVI Software's proprietary notices and is used only for back-up purposes. 
+
+3. UPGRADES.  To Use GVI Software provided by GVI as an upgrade, update, or supplement (collectively “Upgrade”), you must first be licensed for the original GVI Software identified by GVI as eligible for the Upgrade. To the extent the Upgrade supersedes the original GVI Software, you may no longer use such GVI Software. This EULA applies to each Upgrade unless GVI provides other terms with the Upgrade. In case of a conflict between this EULA and such other terms, the other terms will prevail.
+
+4. TRANSFER.  You may not rent, lease or lend the GVI Software or Use the GVI Software for commercial timesharing or bureau use. You may not sublicense, assign or otherwise transfer the GVI Software except as expressly provided in this EULA.
+
+5. PROPRIETARY RIGHTS.  All intellectual property rights in the Software and User Documentation are owned by GVI or its suppliers and are protected by law, including applicable copyright, trade secret, patent, and trademark laws. You will not remove any product identification, copyright notice, or proprietary restriction from the Software.
+
+6. LIMITATION ON REVERSE ENGINEERING.  You may not reverse engineer, decompile, or disassemble the GVI Software, except and only to the extent that the right to do so is allowed under applicable law.
+
+7. CONSENT TO USE OF DATA.  GVI and its affiliates may collect and use technical information you provide in relation to (i) your Use of the Software or the GVI Product, or (ii) the provision of support services related to the Software or the GVI Product.  All such information will be subject to GVI’s privacy policy. GVI will not use such information in a form that personally identifies you except to the extent necessary to enhance your Use or provide support services. 
+
+8. LIMITATION OF LIABILITY.  Notwithstanding any damages that you might incur, the entire liability of GVI and its suppliers under this EULA and your exclusive remedy under this EULA will be limited to the amount actually paid by you for the Product. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL GVI OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOST PROFITS, LOST DATA, BUSINESS INTERRUPTION, PERSONAL INJURY, OR LOSS OF PRIVACY) RELATED IN ANY WAY TO THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF GVI OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE ABOVE REMEDY FAILS OF ITS ESSENTIAL PURPOSE. Some states or other jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.  
+
+9. U.S. GOVERNMENT CUSTOMERS. Software was developed entirely at private expense. All Software is commercial computer software within the meaning of the applicable acquisition regulations. Accordingly, pursuant to US FAR 48 CFR 12.212 and DFAR 48 CFR 227.7202, use, duplication and disclosure of the Software by or for the U.S. Government or a U.S. Government subcontractor is subject solely to the terms and conditions set forth in this End User License Agreement, except for provisions which are contrary to applicable mandatory federal laws.
+
+10. COMPLIANCE WITH EXPORT LAWS.  You will comply with all laws, rules, and regulations (i) applicable to the export or import of the Software, or (ii) restricting the Use of the Software, including any restrictions on nuclear, chemical, or biological weapons proliferation.
+
+11. RESERVATION OF RIGHTS.  GVI and its suppliers reserve all rights not expressly granted to you in this EULA.
+
